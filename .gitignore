@@ -7,3 +7,4 @@
 data/
 sandbox.ipynb
 classical-ml/*.csv
+test_pytorch_postinstall.ipynb
