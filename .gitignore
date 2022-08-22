@@ -8,3 +8,5 @@ data/
 sandbox.ipynb
 classical-ml/*.csv
 test_pytorch_postinstall.ipynb
+datasets/household_power_consumption.txt
+classical-ml/ts_data/
