@@ -1,4 +1,4 @@
-.DS_Store
+DS_Store
 *.pdf
 *~
 \#*\#
@@ -11,4 +11,5 @@ test_pytorch_postinstall.ipynb
 datasets/household_power_consumption.txt
 classical-ml/ts_data/
 classical-ml/.ipynb_checkpoints
-classical-ml/*.h5  
+classical-ml/*.h5
+classical-ml/Regression/
