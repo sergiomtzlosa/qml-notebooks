@@ -1,0 +1,722 @@
+REGION,PROV_CODE,PROV_NAME,DIST_CODE,DIST_NAME,INC_DATE,INC_TYPE,Persons_killed,Persons_injured,Families_affected,Individuals_affected2,Houses_damaged,Houses_destroyed
+#adm1 +name +en,#adm2 +code,#adm2 +name +en,#adm3 +code,#adm3 +name +en,#cause +date,#cause +type,#affected +killed +num,#affected +injured +num,#affected +families +num,#affected +individuals +num,#damaged+houses+num,#destroyed+houses+num
+Southern,33,Kandahar,3303,Zheray,02-01-22,Flood / flash flood,0,0,3,30,3,0
+Southern,33,Kandahar,3305,Daman,02-01-22,Flood / flash flood,0,0,3,25,3,0
+Southern,33,Kandahar,3302,Arghandab,02-01-22,Flood / flash flood,0,0,4,40,4,0
+Southern,33,Kandahar,3301,Kandahar,03-01-22,Flood / flash flood,0,0,29,232,29,0
+Southern,32,Hilmand,3203,Nad-e-Ali,04-01-22,Flood / flash flood,2,2,171,1360,129,42
+Southern,32,Hilmand,3201,Lashkargah,04-01-22,Flood / flash flood,0,0,38,304,50,0
+Southern,32,Hilmand,3202,Nahr-e-Saraj,04-01-22,Flood / flash flood,0,0,24,192,12,12
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,05-01-22,Flood / flash flood,0,0,17,121,17,0
+Eastern,13,Kunar,1311,Barkunar,05-01-22,Flood / flash flood,0,0,6,37,6,0
+Southern,34,Nimroz,3403,Charburjak,05-01-22,Flood / flash flood,0,0,38,215,13,25
+Eastern,13,Kunar,1309,Khaskunar,05-01-22,Flood / flash flood,0,0,6,38,6,0
+Eastern,13,Kunar,1307,Dara-e-Pech,05-01-22,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1310,Dangam,05-01-22,Flood / flash flood,0,0,2,14,0,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,05-01-22,Flood / flash flood,0,0,29,203,29,0
+Eastern,13,Kunar,1314,Nurgal,05-01-22,Flood / flash flood,0,0,18,118,15,3
+Eastern,13,Kunar,1304,Sarkani,05-01-22,Flood / flash flood,1,0,5,35,5,0
+Eastern,13,Kunar,1305,Marawara,05-01-22,Flood / flash flood,0,0,68,476,64,4
+Eastern,13,Kunar,1301,Asadabad,05-01-22,Heavy snowfall,0,0,16,112,16,0
+Eastern,13,Kunar,1314,Nurgal,05-01-22,Flood / flash flood,0,0,9,64,9,0
+Eastern,13,Kunar,1301,Asadabad,05-01-22,Flood / flash flood,0,0,18,126,18,0
+Eastern,13,Kunar,1312,Ghaziabad,05-01-22,Flood / flash flood,0,0,6,42,4,2
+Eastern,13,Kunar,1312,Ghaziabad,05-01-22,Flood / flash flood,0,0,6,42,4,2
+Eastern,13,Kunar,1307,Dara-e-Pech,05-01-22,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1302,Watapur,05-01-22,Flood / flash flood,1,4,3,21,3,0
+Eastern,13,Kunar,1308,Chawkay,05-01-22,Flood / flash flood,0,0,6,37,5,1
+Eastern,13,Kunar,1315,Nari,05-01-22,Flood / flash flood,0,0,3,21,3,0
+Eastern,13,Kunar,1303,Narang,05-01-22,Flood / flash flood,0,0,10,70,10,0
+Southern,33,Kandahar,3308,Maywand,06-01-22,Flood / flash flood,0,0,28,224,24,4
+South Eastern,26,Khost,2601,Khost (Matun),06-01-22,Heavy snowfall,0,0,4,36,4,0
+South Eastern,26,Khost,2602,Sabari,06-01-22,Flood / flash flood,2,2,1,5,1,0
+South Eastern,26,Khost,2604,Nadirshahkot,06-01-22,Flood / flash flood,0,0,1,20,0,1
+South Eastern,26,Khost,2612,Bak,06-01-22,Flood / flash flood,0,0,5,49,4,1
+Southern,33,Kandahar,3304,Panjwayi,06-01-22,Flood / flash flood,1,1,12,96,12,0
+South Eastern,26,Khost,2605,Mandozayi,06-01-22,Flood / flash flood,0,0,1,8,1,0
+Southern,33,Kandahar,3301,Kandahar,06-01-22,Flood / flash flood,0,0,38,324,38,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,3,16,3,0
+Eastern,6,Nangarhar,610,Hesarak,07-01-22,Flood / flash flood,0,2,1,3,1,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,5,28,5,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,2,8,2,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,3,20,3,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,1,0,2,13,0,2
+Eastern,6,Nangarhar,606,Rodat,07-01-22,Flood / flash flood,0,0,1,6,0,1
+Eastern,6,Nangarhar,617,Achin,07-01-22,Flood / flash flood,0,0,4,38,4,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,5,37,5,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,17,148,17,0
+Eastern,6,Nangarhar,611,Sherzad,07-01-22,Flood / flash flood,1,6,1,4,1,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,9,76,8,1
+Eastern,6,Nangarhar,607,Kama,07-01-22,Flood / flash flood,0,0,1,9,1,0
+Eastern,6,Nangarhar,609,Dara-e-Nur,07-01-22,Flood / flash flood,0,0,1,18,1,0
+Eastern,6,Nangarhar,614,Kot,07-01-22,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,605,Chaparhar,07-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,614,Kot,07-01-22,Flood / flash flood,0,0,1,6,1,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,3,29,3,0
+Eastern,6,Nangarhar,604,Khogyani,07-01-22,Flood / flash flood,0,0,4,21,4,0
+Eastern,6,Nangarhar,617,Achin,07-01-22,Flood / flash flood,0,0,4,37,4,0
+Eastern,6,Nangarhar,617,Achin,07-01-22,Flood / flash flood,0,0,2,19,2,0
+Eastern,6,Nangarhar,604,Khogyani,07-01-22,Flood / flash flood,0,0,1,3,1,0
+Eastern,6,Nangarhar,606,Rodat,07-01-22,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,611,Sherzad,07-01-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,6,Nangarhar,612,Pachieragam,07-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,4,31,2,2
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,13,102,6,7
+Eastern,6,Nangarhar,612,Pachieragam,07-01-22,Flood / flash flood,0,0,2,17,2,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,9,53,9,0
+Eastern,6,Nangarhar,614,Kot,07-01-22,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,612,Pachieragam,07-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,619,Muhmand Dara,07-01-22,Flood / flash flood,0,1,3,29,3,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,601,Jalalabad,07-01-22,Flood / flash flood,0,0,7,46,7,0
+Eastern,6,Nangarhar,601,Jalalabad,07-01-22,Flood / flash flood,0,0,6,37,5,1
+Eastern,6,Nangarhar,601,Jalalabad,07-01-22,Flood / flash flood,0,0,6,29,5,1
+Eastern,6,Nangarhar,601,Jalalabad,07-01-22,Flood / flash flood,0,0,6,36,6,0
+Eastern,6,Nangarhar,616,Goshta,07-01-22,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,601,Jalalabad,07-01-22,Flood / flash flood,0,0,2,10,2,0
+Eastern,6,Nangarhar,615,Batikot,07-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,615,Batikot,07-01-22,Flood / flash flood,0,0,1,9,0,1
+Eastern,6,Nangarhar,622,Durbaba,07-01-22,Flood / flash flood,0,0,4,37,4,0
+Eastern,6,Nangarhar,603,Surkhrod,07-01-22,Flood / flash flood,0,0,8,47,7,1
+Eastern,6,Nangarhar,603,Surkhrod,07-01-22,Flood / flash flood,0,0,5,32,4,1
+Eastern,6,Nangarhar,621,Nazyan,07-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,622,Durbaba,07-01-22,Flood / flash flood,0,0,3,27,3,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,4,28,4,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,1,4,1,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,2,10,2,0
+Eastern,6,Nangarhar,618,Shinwar,07-01-22,Flood / flash flood,0,0,2,22,2,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,4,18,4,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,6,39,6,0
+Eastern,6,Nangarhar,602,Behsud,07-01-22,Flood / flash flood,0,0,10,77,9,1
+Eastern,7,Laghman,702,Alishang,08-01-22,Flood / flash flood,0,0,39,199,39,0
+Eastern,7,Laghman,701,Mehtarlam,08-01-22,Flood / flash flood,0,0,5,40,5,0
+Capital,3,Parwan,301,Charikar,09-01-22,Heavy snowfall,0,0,10,76,8,2
+Southern,34,Nimroz,3405,Khashrod,09-01-22,Flood / flash flood,0,0,16,127,15,1
+Southern,34,Nimroz,3405,Khashrod,10-01-22,Flood / flash flood,3,2,15,137,15,0
+Southern,24,Zabul,2401,Qalat,15-01-22,Flood / flash flood,0,0,26,215,24,2
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,2,84,588,0,84
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,5,53,371,0,53
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,64,448,0,64
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,6,21,180,1260,0,180
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,57,399,0,57
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,64,448,0,64
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,74,518,0,74
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,1,1,202,1414,0,202
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,272,1904,0,272
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,28,196,0,28
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,53,371,0,53
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,26,182,0,26
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,68,476,0,68
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,12,84,0,12
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,15,105,0,15
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,12,84,0,12
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,45,315,0,45
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,55,385,0,55
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,41,287,0,41
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,148,847,100,48
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,68,476,0,68
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,3,10,70,0,10
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,63,441,0,63
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,54,378,0,54
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,115,805,0,115
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,183,1216,163,23
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,10,70,0,10
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,52,364,0,52
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,20,140,0,20
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,20,140,0,20
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,107,749,0,107
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,33,231,0,33
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,72,504,0,72
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,36,252,0,36
+Western,30,Hirat,3005,Guzara,17-01-22,Flood / flash flood,0,0,6,42,6,0
+Western,30,Hirat,3005,Guzara,17-01-22,Flood / flash flood,0,0,39,255,39,0
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,4,0,152,880,132,20
+Western,30,Hirat,3002,Injil,17-01-22,Flood / flash flood,0,0,116,812,116,0
+Western,21,Ghor,2105,Shahrak,17-01-22,Landslide / mudflow,1,3,2,14,1,1
+Western,30,Hirat,3006,Pashtunzarghun,17-01-22,Flood / flash flood,0,0,11,61,11,0
+Western,30,Hirat,3007,Karukh,17-01-22,Flood / flash flood,0,0,1,5,1,0
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,229,1057,129,100
+Western,30,Hirat,3001,Hirat,17-01-22,Flood / flash flood,0,0,85,504,0,85
+Western,30,Hirat,3001,Hirat,17-01-22,Flood / flash flood,0,0,10,58,10,0
+Western,30,Hirat,3001,Hirat,17-01-22,Flood / flash flood,0,0,197,914,197,0
+Western,30,Hirat,3003,Kushk,17-01-22,Flood / flash flood,0,0,6,29,6,0
+Western,30,Hirat,3005,Guzara,17-01-22,Flood / flash flood,0,0,38,235,38,0
+Western,29,Badghis,2904,Qadis,17-01-22,Earthquake,0,0,76,532,0,76
+Western,30,Hirat,3005,Guzara,17-01-22,Flood / flash flood,0,0,16,92,16,0
+North Eastern,15,Badakhshan,1501,Fayzabad,18-01-22,Flood / flash flood,0,0,20,140,12,8
+Southern,23,Uruzgan,2301,Tirinkot,20-01-22,Flood / flash flood,0,0,184,1586,184,0
+Southern,23,Uruzgan,2304,Dehrawud,20-01-22,Flood / flash flood,0,6,57,472,57,0
+Eastern,6,Nangarhar,618,Shinwar,23-01-22,Flood / flash flood,0,0,7,62,7,0
+Eastern,6,Nangarhar,618,Shinwar,23-01-22,Flood / flash flood,0,0,8,84,8,0
+Eastern,6,Nangarhar,601,Jalalabad,23-01-22,Flood / flash flood,0,0,4,32,1,3
+Eastern,6,Nangarhar,618,Shinwar,23-01-22,Flood / flash flood,0,0,8,64,8,0
+Eastern,6,Nangarhar,601,Jalalabad,23-01-22,Flood / flash flood,0,0,4,25,4,0
+Eastern,6,Nangarhar,602,Behsud,23-01-22,Flood / flash flood,0,0,1,14,1,0
+Eastern,6,Nangarhar,621,Nazyan,23-01-22,Flood / flash flood,3,1,3,20,1,2
+Eastern,6,Nangarhar,610,Hesarak,23-01-22,Flood / flash flood,0,0,1,3,1,0
+Eastern,6,Nangarhar,618,Shinwar,23-01-22,Flood / flash flood,0,0,1,9,1,0
+Eastern,6,Nangarhar,618,Shinwar,23-01-22,Flood / flash flood,0,0,9,59,9,0
+Eastern,6,Nangarhar,621,Nazyan,23-01-22,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,601,Jalalabad,23-01-22,Flood / flash flood,0,0,9,56,9,0
+Eastern,7,Laghman,704,Alingar,23-01-22,Flood / flash flood,0,0,1,11,0,1
+Eastern,7,Laghman,704,Alingar,23-01-22,Flood / flash flood,0,1,6,45,5,1
+Eastern,6,Nangarhar,615,Batikot,23-01-22,Flood / flash flood,0,0,1,9,1,0
+Eastern,6,Nangarhar,608,Kuzkunar,23-01-22,Flood / flash flood,0,0,3,22,3,0
+Eastern,7,Laghman,701,Mehtarlam,23-01-22,Flood / flash flood,0,0,4,41,2,0
+Eastern,7,Laghman,702,Alishang,23-01-22,Flood / flash flood,0,0,23,152,23,0
+Eastern,6,Nangarhar,615,Batikot,23-01-22,Flood / flash flood,0,0,2,20,2,0
+Eastern,6,Nangarhar,601,Jalalabad,23-01-22,Flood / flash flood,0,0,3,18,3,0
+Eastern,6,Nangarhar,601,Jalalabad,23-01-22,Flood / flash flood,0,0,3,18,3,0
+Eastern,6,Nangarhar,615,Batikot,23-01-22,Flood / flash flood,0,0,2,16,2,0
+Eastern,6,Nangarhar,622,Durbaba,23-01-22,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,615,Batikot,23-01-22,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,605,Chaparhar,23-01-22,Flood / flash flood,0,0,2,18,2,0
+Eastern,6,Nangarhar,604,Khogyani,23-01-22,Flood / flash flood,0,0,2,11,2,0
+Eastern,6,Nangarhar,612,Pachieragam,23-01-22,Flood / flash flood,0,0,4,29,4,0
+Eastern,6,Nangarhar,617,Achin,23-01-22,Flood / flash flood,0,0,1,9,1,0
+Eastern,6,Nangarhar,607,Kama,23-01-22,Flood / flash flood,0,0,1,9,0,1
+Eastern,6,Nangarhar,606,Rodat,23-01-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,619,Muhmand Dara,23-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,602,Behsud,23-01-22,Flood / flash flood,0,0,4,21,2,2
+Eastern,6,Nangarhar,606,Rodat,23-01-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,13,Kunar,1309,Khaskunar,24-01-22,Flood / flash flood,0,0,12,93,12,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,24-01-22,Flood / flash flood,0,0,14,98,14,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,24-01-22,Flood / flash flood,0,0,6,36,6,0
+Eastern,13,Kunar,1303,Narang,24-01-22,Flood / flash flood,0,0,6,53,6,0
+Eastern,13,Kunar,1313,Chapadara,24-01-22,Flood / flash flood,0,0,18,126,18,0
+Eastern,13,Kunar,1314,Nurgal,24-01-22,Flood / flash flood,0,0,12,87,12,0
+Eastern,13,Kunar,1301,Asadabad,24-01-22,Flood / flash flood,0,0,14,98,14,0
+Eastern,13,Kunar,1314,Nurgal,24-01-22,Flood / flash flood,0,0,23,185,23,0
+Eastern,13,Kunar,1308,Chawkay,24-01-22,Flood / flash flood,0,0,11,92,11,0
+Eastern,13,Kunar,1311,Barkunar,24-01-22,Flood / flash flood,0,0,6,36,6,0
+Eastern,13,Kunar,1305,Marawara,24-01-22,Flood / flash flood,0,0,40,148,40,0
+Eastern,13,Kunar,1304,Sarkani,24-01-22,Flood / flash flood,0,0,3,19,3,0
+Eastern,13,Kunar,1301,Asadabad,24-01-22,Flood / flash flood,0,0,12,90,12,0
+Eastern,13,Kunar,1305,Marawara,28-01-22,Flood / flash flood,0,0,15,105,15,0
+North Eastern,16,Takhar,1613,Dasht-e- Qala,29-01-22,Flood / flash flood,0,0,32,224,0,0
+Northern,18,Balkh,1802,Nahr-e-Shahi,29-01-22,Flood / flash flood,0,0,2,13,0,2
+Northern,18,Balkh,1801,Mazar-e-Sharif,06-02-22,Flood / flash flood,0,0,9,63,6,3
+Eastern,13,Kunar,1305,Marawara,21-02-22,Flood / flash flood,0,0,4,31,4,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,21-02-22,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1313,Chapadara,21-02-22,Flood / flash flood,0,0,12,59,12,0
+Eastern,13,Kunar,1314,Nurgal,21-02-22,Flood / flash flood,0,0,6,33,3,3
+Eastern,13,Kunar,1314,Nurgal,21-02-22,Flood / flash flood,0,0,2,13,1,1
+Eastern,13,Kunar,1314,Nurgal,21-02-22,Flood / flash flood,0,0,6,33,3,3
+Eastern,13,Kunar,1314,Nurgal,21-02-22,Flood / flash flood,0,0,2,8,0,2
+Eastern,13,Kunar,1308,Chawkay,21-02-22,Flood / flash flood,0,0,5,26,5,0
+Eastern,13,Kunar,1313,Chapadara,21-02-22,Flood / flash flood,0,0,4,17,4,0
+Eastern,13,Kunar,1313,Chapadara,21-02-22,Flood / flash flood,0,0,2,8,2,0
+Eastern,13,Kunar,1313,Chapadara,21-02-22,Flood / flash flood,0,0,2,8,2,0
+Eastern,13,Kunar,1308,Chawkay,21-02-22,Flood / flash flood,0,0,3,17,3,0
+Eastern,13,Kunar,1303,Narang,21-02-22,Flood / flash flood,3,4,1,4,1,0
+Eastern,6,Nangarhar,602,Behsud,22-02-22,Flood / flash flood,0,0,1,7,1,0
+Western,29,Badghis,2905,Jawand,23-02-22,Earthquake,0,0,258,1806,258,0
+Western,29,Badghis,2903,Abkamari,23-02-22,Earthquake,0,0,105,735,105,0
+Western,29,Badghis,2904,Qadis,23-02-22,Earthquake,0,0,424,2968,424,0
+North Eastern,16,Takhar,1601,Taloqan,24-02-22,Flood / flash flood,0,0,2,13,1,1
+Capital,3,Parwan,303,Shinwari,01-03-22,Flood / flash flood,0,0,2,14,1,1
+Capital,3,Parwan,301,Charikar,01-03-22,Flood / flash flood,0,0,7,48,6,1
+Capital,3,Parwan,307,Ghorband,01-03-22,Flood / flash flood,0,0,3,19,3,0
+Capital,3,Parwan,305,Saydkhel,01-03-22,Flood / flash flood,0,0,6,42,5,1
+Capital,3,Parwan,301,Charikar,01-03-22,Flood / flash flood,0,0,9,63,9,0
+Eastern,13,Kunar,1304,Sarkani,09-03-22,Flood / flash flood,0,0,1,6,1,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,09-03-22,Flood / flash flood,0,0,9,80,9,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,09-03-22,Flood / flash flood,0,0,4,34,4,0
+Eastern,13,Kunar,1302,Watapur,09-03-22,Flood / flash flood,0,0,2,22,2,0
+Eastern,13,Kunar,1301,Asadabad,09-03-22,Flood / flash flood,0,1,18,149,7,11
+Eastern,13,Kunar,1311,Barkunar,09-03-22,Flood / flash flood,0,0,4,29,4,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,09-03-22,Flood / flash flood,0,0,4,58,4,0
+Northern,20,Sar-e-Pul,2004,Sozmaqala,16-03-22,Flood / flash flood,0,1,4,25,4,0
+North Eastern,16,Takhar,1609,Rostaq,16-03-22,Flood / flash flood,0,0,4,37,3,1
+Northern,20,Sar-e-Pul,2007,Sangcharak,16-03-22,Flood / flash flood,0,0,10,66,10,0
+North Eastern,17,Kunduz,1707,Dasht-e-Archi,16-03-22,Flood / flash flood,0,0,4,33,1,3
+Eastern,6,Nangarhar,607,Kama,18-03-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,607,Kama,18-03-22,Flood / flash flood,0,0,14,107,4,10
+Eastern,6,Nangarhar,607,Kama,18-03-22,Flood / flash flood,0,0,2,20,2,0
+Eastern,6,Nangarhar,615,Batikot,18-03-22,Flood / flash flood,0,0,2,8,2,0
+Eastern,6,Nangarhar,616,Goshta,18-03-22,Flood / flash flood,0,0,3,25,2,1
+Eastern,6,Nangarhar,620,Lalpur,18-03-22,Flood / flash flood,0,0,8,57,7,1
+Eastern,6,Nangarhar,620,Lalpur,18-03-22,Flood / flash flood,2,1,3,16,3,0
+Eastern,6,Nangarhar,615,Batikot,18-03-22,Flood / flash flood,0,0,4,24,4,0
+Eastern,13,Kunar,1309,Khaskunar,20-03-22,Flood / flash flood,0,0,1,9,1,0
+Eastern,13,Kunar,1304,Sarkani,20-03-22,Flood / flash flood,0,0,3,33,3,0
+Eastern,13,Kunar,1309,Khaskunar,20-03-22,Flood / flash flood,0,0,2,20,2,0
+Eastern,13,Kunar,1314,Nurgal,20-03-22,Flood / flash flood,0,0,11,77,11,0
+Eastern,13,Kunar,1303,Narang,20-03-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,13,Kunar,1308,Chawkay,20-03-22,Flood / flash flood,0,0,5,35,5,0
+Eastern,13,Kunar,1305,Marawara,20-03-22,Flood / flash flood,0,0,6,36,6,0
+Eastern,13,Kunar,1304,Sarkani,20-03-22,Flood / flash flood,0,0,3,33,3,0
+North Eastern,15,Badakhshan,1504,Arghanjkhwa,22-03-22,Flood / flash flood,0,0,23,122,0,23
+North Eastern,16,Takhar,1607,Farkhar,24-03-22,Flood / flash flood,0,0,1,7,1,0
+North Eastern,16,Takhar,1616,Warsaj,24-03-22,Flood / flash flood,0,0,5,29,1,3
+North Eastern,15,Badakhshan,1501,Fayzabad,05-04-22,Flood / flash flood,0,0,37,159,19,18
+North Eastern,16,Takhar,1607,Farkhar,13-04-22,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1308,Chawkay,14-04-22,Flood / flash flood,0,0,1,7,1,0
+North Eastern,17,Kunduz,1701,Kunduz,14-04-22,Flood / flash flood,0,0,6,34,3,3
+Eastern,13,Kunar,1301,Asadabad,14-04-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1303,Narang,14-04-22,Flood / flash flood,0,0,2,14,2,0
+Western,21,Ghor,2101,Chaghcharan,18-04-22,Flood / flash flood,0,1,5,61,0,5
+Central Highland,10,Bamyan,1006,Kahmard,18-04-22,Landslide / mudflow,0,0,9,57,0,9
+Central Highland,10,Bamyan,1006,Kahmard,18-04-22,Landslide / mudflow,0,0,13,60,0,13
+Western,30,Hirat,3006,Pashtunzarghun,18-04-22,Flood / flash flood,3,5,25,280,20,5
+Central Highland,10,Bamyan,1005,Shibar,18-04-22,Flood / flash flood,0,0,4,57,4,0
+Central Highland,10,Bamyan,1001,Bamyan,18-04-22,Flood / flash flood,0,0,5,30,5,0
+Western,30,Hirat,3006,Pashtunzarghun,18-04-22,Flood / flash flood,0,0,16,112,5,11
+Capital,3,Parwan,303,Shinwari,18-04-22,Flood / flash flood,0,0,7,33,6,1
+Central Highland,10,Bamyan,1007,Waras,18-04-22,Flood / flash flood,0,0,12,72,12,0
+Southern,23,Uruzgan,2303,Shahid-e-Hassas,18-04-22,Flood / flash flood,0,2,20,197,20,0
+Central Highland,10,Bamyan,1004,Panjab,18-04-22,Flood / flash flood,0,0,7,46,7,0
+Western,30,Hirat,3006,Pashtunzarghun,19-04-22,Flood / flash flood,0,0,38,262,13,25
+North Eastern,16,Takhar,1610,Chahab,19-04-22,Landslide / mudflow,0,0,3,21,0,3
+Capital,4,Wardak,402,Jalrez,19-04-22,Flood / flash flood,0,0,15,111,15,0
+Western,21,Ghor,2105,Shahrak,19-04-22,Flood / flash flood,1,1,74,108,2,2
+North Eastern,15,Badakhshan,1509,Teshkan,29-04-22,Flood / flash flood,0,0,38,266,18,20
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,03-05-22,Flood / flash flood,0,0,8,56,8,0
+Western,30,Hirat,3012,Obe,03-05-22,Flood / flash flood,1,0,36,252,16,20
+Western,29,Badghis,2904,Qadis,03-05-22,Flood / flash flood,0,0,19,112,11,9
+Western,30,Hirat,3009,Ghoryan,03-05-22,Flood / flash flood,0,1,80,523,80,0
+Western,29,Badghis,2907,Ghormach,03-05-22,Flood / flash flood,1,0,150,1050,20,130
+Northern,19,Samangan,1907,Ruy-e-Duab,03-05-22,Flood / flash flood,0,0,19,124,19,0
+Western,29,Badghis,2904,Qadis,03-05-22,Flood / flash flood,0,0,101,653,101,0
+Western,30,Hirat,3005,Guzara,03-05-22,Flood / flash flood,0,0,1,7,1,0
+Northern,28,Faryab,2802,Khwajasabzposh,03-05-22,Flood / flash flood,0,0,4,20,4,0
+Northern,19,Samangan,1905,Dara-e Suf-e-Bala,03-05-22,Flood / flash flood,0,0,15,119,15,0
+North Eastern,16,Takhar,1607,Farkhar,03-05-22,Flood / flash flood,1,0,2,17,2,0
+North Eastern,15,Badakhshan,1518,Keshem,03-05-22,Flood / flash flood,0,0,16,103,7,9
+North Eastern,15,Badakhshan,1504,Arghanjkhwa,03-05-22,Flood / flash flood,0,0,22,154,19,3
+North Eastern,16,Takhar,1615,Eshkmesh,03-05-22,Flood / flash flood,0,2,2,14,2,0
+North Eastern,15,Badakhshan,1504,Arghanjkhwa,03-05-22,Avalanche,0,0,22,240,19,3
+Northern,19,Samangan,1904,Dara-e- Suf-e- Payin,03-05-22,Flood / flash flood,0,0,5,35,5,0
+Capital,3,Parwan,303,Shinwari,03-05-22,Flood / flash flood,0,0,31,215,31,0
+Capital,3,Parwan,303,Shinwari,03-05-22,Flood / flash flood,0,0,25,185,21,4
+North Eastern,9,Baghlan,903,Dahana-e-Ghori,04-05-22,Flood / flash flood,0,0,269,1883,167,102
+Eastern,13,Kunar,1304,Sarkani,04-05-22,Flood / flash flood,0,0,1,11,1,0
+Eastern,13,Kunar,1301,Asadabad,04-05-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1315,Nari,04-05-22,Flood / flash flood,0,0,3,21,3,0
+Eastern,13,Kunar,1305,Marawara,04-05-22,Flood / flash flood,0,0,2,19,2,0
+Northern,28,Faryab,2801,Maymana,04-05-22,Flood / flash flood,1,2,352,1199,223,129
+Eastern,13,Kunar,1305,Marawara,04-05-22,Flood / flash flood,0,0,3,19,3,0
+Eastern,13,Kunar,1305,Marawara,04-05-22,Flood / flash flood,0,0,4,33,4,0
+Eastern,13,Kunar,1302,Watapur,04-05-22,Flood / flash flood,0,0,2,13,2,0
+Eastern,13,Kunar,1302,Watapur,04-05-22,Flood / flash flood,0,0,2,13,2,0
+Eastern,13,Kunar,1305,Marawara,04-05-22,Flood / flash flood,0,0,4,30,4,0
+Northern,28,Faryab,2806,Qaysar,04-05-22,Flood / flash flood,0,3,62,306,43,19
+Eastern,13,Kunar,1314,Nurgal,04-05-22,Flood / flash flood,0,0,1,10,1,0
+Capital,3,Parwan,301,Charikar,04-05-22,Flood / flash flood,0,0,5,31,4,1
+Northern,28,Faryab,2803,Pashtunkot,04-05-22,Flood / flash flood,0,0,8,51,8,0
+Eastern,13,Kunar,1314,Nurgal,04-05-22,Flood / flash flood,0,0,4,25,4,0
+Northern,28,Faryab,2807,Kohestan,04-05-22,Flood / flash flood,0,0,7,41,7,0
+Capital,3,Parwan,303,Shinwari,04-05-22,Flood / flash flood,0,0,25,141,21,4
+Capital,3,Parwan,303,Shinwari,04-05-22,Flood / flash flood,2,2,10,68,7,3
+Northern,27,Jawzjan,2704,Qoshtepa,05-05-22,Flood / flash flood,0,0,17,119,17,0
+North Eastern,15,Badakhshan,1521,Jorm,05-05-22,Flood / flash flood,0,0,19,126,19,0
+Eastern,13,Kunar,1310,Dangam,05-05-22,Flood / flash flood,0,0,2,15,2,0
+North Eastern,15,Badakhshan,1508,Shahr-e-Buzorg,05-05-22,Flood / flash flood,0,0,39,273,34,5
+Western,29,Badghis,2907,Ghormach,05-05-22,Flood / flash flood,1,0,144,1008,100,44
+Eastern,6,Nangarhar,605,Chaparhar,06-05-22,Flood / flash flood,4,1,1,7,0,1
+North Eastern,9,Baghlan,907,Khenjan,06-05-22,Flood / flash flood,0,0,32,262,25,7
+North Eastern,9,Baghlan,909,Khwajahejran,06-05-22,Flood / flash flood,0,0,26,211,19,7
+Eastern,6,Nangarhar,618,Shinwar,06-05-22,Flood / flash flood,0,2,1,12,1,0
+Northern,18,Balkh,1815,Keshendeh,06-05-22,Flood / flash flood,5,5,4,28,0,4
+Eastern,6,Nangarhar,607,Kama,06-05-22,Flood / flash flood,0,1,2,11,1,1
+Eastern,6,Nangarhar,615,Batikot,06-05-22,Flood / flash flood,0,0,2,15,1,1
+North Eastern,15,Badakhshan,1509,Teshkan,07-05-22,Flood / flash flood,0,0,24,168,24,0
+Northern,27,Jawzjan,2704,Qoshtepa,17-05-22,Flood / flash flood,0,0,18,142,18,0
+North Eastern,17,Kunduz,1701,Kunduz,18-05-22,Flood / flash flood,0,0,3,21,3,0
+North Eastern,15,Badakhshan,1501,Fayzabad,20-05-22,Flood / flash flood,0,0,38,150,32,6
+North Eastern,16,Takhar,1606,Namakab,20-05-22,Flood / flash flood,0,0,3,24,2,1
+Eastern,13,Kunar,1305,Marawara,21-05-22,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1315,Nari,21-05-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1314,Nurgal,21-05-22,Flood / flash flood,0,0,1,10,1,0
+Eastern,13,Kunar,1308,Chawkay,21-05-22,Flood / flash flood,0,0,2,13,2,0
+Eastern,13,Kunar,1301,Asadabad,21-05-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1314,Nurgal,21-05-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,612,Pachieragam,21-05-22,Flood / flash flood,2,0,1,4,0,1
+Eastern,6,Nangarhar,617,Achin,21-05-22,Flood / flash flood,0,3,2,16,2,0
+North Eastern,16,Takhar,1604,Bangi,21-05-22,Flood / flash flood,0,0,6,40,6,0
+Western,30,Hirat,3004,Zindajan,22-05-22,Flood / flash flood,1,1,10,77,10,0
+Eastern,6,Nangarhar,618,Shinwar,28-05-22,Flood / flash flood,1,3,1,7,0,1
+North Eastern,15,Badakhshan,1527,Zebak,13-06-22,Flood / flash flood,0,0,10,57,9,1
+North Eastern,15,Badakhshan,1518,Keshem,17-06-22,Flood / flash flood,2,0,1,2,0,0
+Eastern,13,Kunar,1304,Sarkani,18-06-22,Flood / flash flood,0,0,4,24,4,0
+North Eastern,15,Badakhshan,1512,Baharak,18-06-22,Flood / flash flood,0,0,18,92,11,7
+Eastern,13,Kunar,1311,Barkunar,18-06-22,Flood / flash flood,0,0,6,42,6,0
+North Eastern,15,Badakhshan,1522,Warduj,18-06-22,Flood / flash flood,0,0,10,39,8,2
+Eastern,13,Kunar,1314,Nurgal,18-06-22,Flood / flash flood,0,0,5,35,5,0
+Eastern,13,Kunar,1303,Narang,18-06-22,Flood / flash flood,0,0,17,111,17,0
+North Eastern,15,Badakhshan,1503,Argo,18-06-22,Flood / flash flood,0,0,7,54,7,0
+Eastern,13,Kunar,1304,Sarkani,18-06-22,Flood / flash flood,0,0,13,98,13,0
+Eastern,13,Kunar,1308,Chawkay,18-06-22,Flood / flash flood,0,0,7,52,8,0
+Eastern,13,Kunar,1307,Dara-e-Pech,18-06-22,Flood / flash flood,0,0,4,28,4,0
+Eastern,13,Kunar,1301,Asadabad,18-06-22,Flood / flash flood,7,3,76,532,76,0
+Eastern,13,Kunar,1301,Asadabad,18-06-22,Flood / flash flood,0,0,2,18,2,0
+Eastern,13,Kunar,1309,Khaskunar,18-06-22,Flood / flash flood,0,0,36,222,36,0
+Eastern,13,Kunar,1312,Ghaziabad,18-06-22,Flood / flash flood,2,0,1,2,0,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,18-06-22,Flood / flash flood,3,0,77,539,76,0
+Eastern,13,Kunar,1302,Watapur,18-06-22,Flood / flash flood,0,0,16,112,16,0
+Eastern,13,Kunar,1310,Dangam,18-06-22,Flood / flash flood,0,0,20,140,20,0
+Eastern,13,Kunar,1313,Chapadara,18-06-22,Heavy snowfall,3,14,172,1204,172,0
+Eastern,13,Kunar,1315,Nari,18-06-22,Flood / flash flood,0,0,9,63,9,0
+Eastern,13,Kunar,1305,Marawara,18-06-22,Flood / flash flood,0,0,88,629,94,0
+North Eastern,15,Badakhshan,1512,Baharak,19-06-22,Flood / flash flood,0,0,18,110,0,18
+North Eastern,15,Badakhshan,1509,Teshkan,19-06-22,Flood / flash flood,0,0,30,180,30,0
+North Eastern,16,Takhar,1601,Taloqan,20-06-22,Flood / flash flood,0,0,2,16,0,2
+North Eastern,17,Kunduz,1702,Emamsaheb,20-06-22,Flood / flash flood,0,0,6,40,4,2
+North Eastern,16,Takhar,1609,Rostaq,20-06-22,Flood / flash flood,2,0,1,2,0,0
+North Eastern,17,Kunduz,1702,Emamsaheb,21-06-22,Flood / flash flood,0,0,6,42,0,6
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,3,56,448,0,56
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,42,288,12,30
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,1,2,61,410,11,50
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,1,10,13,108,3,10
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,16,158,1471,0,158
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,53,325,8,45
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,56,376,6,50
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,8,24,190,0,24
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,23,53,45,298,5,40
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,4,8,192,1344,100,92
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,59,370,40,19
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,3,0,39,203,9,30
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,151,860,51,100
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,18,128,8,10
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,29,261,0,29
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,16,133,6,10
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,67,352,10,57
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,40,125,299,2032,119,180
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,48,996,8,40
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,3,89,785,9,80
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,5,27,273,7,20
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,5,2,30,200,5,25
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,7,58,464,39,19
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,4,4,47,283,10,37
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,33,10,72,692,0,72
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,22,28,15,127,3,12
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,2,1,207,1391,100,107
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,2,30,221,12,18
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,5,29,53,371,0,53
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,61,400,20,41
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,39,53,219,1520,6,213
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,1,2,60,366,20,40
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,9,187,1206,160,27
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,106,954,0,106
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,3,0,27,186,17,10
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,55,1047,5,50
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,15,175,7,8
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,79,129,149,991,30,119
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,29,167,9,20
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,77,520,50,27
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,37,278,37,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,8,137,960,0,137
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,9,20,145,10,10
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,41,285,0,41
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,11,155,1039,104,57
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,52,370,0,52
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,42,288,0,42
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,62,429,0,62
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,43,300,0,43
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,10,92,671,32,60
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,20,124,5,15
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,7,49,5,2
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,3,110,805,10,100
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,40,266,0,40
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,173,281,0,173
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,2,7,170,1087,70,100
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,2,77,592,77,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,6,61,419,0,61
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,99,685,99,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,2,6,72,523,6,72
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,1,5,120,761,0,120
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,25,170,20,5
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,1,7,85,602,35,50
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,2,3,63,569,0,63
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,10,202,362,2534,0,362
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,30,629,6,24
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,15,29,74,682,0,74
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,5,9,30,244,5,25
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,23,40,410,2895,250,310
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,8,164,1074,100,64
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,45,327,25,20
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,2,137,900,80,57
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,24,163,21,3
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,24,243,3,21
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,1,4,246,1717,200,46
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,24,216,5,19
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,2,35,163,996,13,150
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,94,1392,0,94
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,6,5,29,221,20,9
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,99,573,90,9
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,8,150,913,120,30
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,15,106,652,96,10
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,7,127,978,115,12
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,211,1507,170,41
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,54,383,50,4
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,96,669,56,40
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,22,79,437,79,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,9,360,2804,200,160
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,171,1288,161,10
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,13,151,909,121,30
+South Eastern,26,Khost,2606,Tani,22-06-22,Earthquake,0,0,38,265,38,0
+Eastern,6,Nangarhar,603,Surkhrod,22-06-22,Flood / flash flood,0,0,3,25,3,0
+Eastern,6,Nangarhar,615,Batikot,22-06-22,Flood / flash flood,0,0,2,17,2,0
+Eastern,6,Nangarhar,614,Kot,22-06-22,Flood / flash flood,0,0,9,75,9,0
+Eastern,7,Laghman,704,Alingar,22-06-22,Flood / flash flood,0,0,16,118,15,1
+Eastern,7,Laghman,701,Mehtarlam,22-06-22,Flood / flash flood,0,0,37,280,32,5
+Eastern,6,Nangarhar,606,Rodat,22-06-22,Flood / flash flood,0,0,1,5,1,0
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,51,451,46,5
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,45,405,40,5
+Eastern,6,Nangarhar,618,Shinwar,22-06-22,Flood / flash flood,2,0,9,55,9,0
+Eastern,6,Nangarhar,607,Kama,22-06-22,Flood / flash flood,0,0,3,22,2,1
+Eastern,6,Nangarhar,618,Shinwar,22-06-22,Flood / flash flood,0,0,8,72,7,1
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,0,0,35,298,35,0
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,0,0,18,127,10,8
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,0,1,44,334,34,10
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,2,2,8,69,8,0
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,0,0,17,138,10,7
+South Eastern,26,Khost,2610,Shamal,22-06-22,Earthquake,0,0,41,299,40,15
+Eastern,6,Nangarhar,617,Achin,22-06-22,Flood / flash flood,2,0,4,32,4,0
+Eastern,6,Nangarhar,619,Muhmand Dara,22-06-22,Flood / flash flood,0,0,17,105,17,0
+Eastern,6,Nangarhar,601,Jalalabad,22-06-22,Flood / flash flood,0,0,45,348,40,5
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,67,525,60,7
+Eastern,6,Nangarhar,618,Shinwar,22-06-22,Flood / flash flood,0,0,18,133,47,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,11,181,1167,160,32
+South Eastern,26,Khost,2606,Tani,22-06-22,Earthquake,0,0,178,1205,178,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,66,461,50,29
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,5,185,969,150,35
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,21,633,4966,400,233
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,4,103,1004,80,23
+South Eastern,26,Khost,2606,Tani,22-06-22,Earthquake,0,0,77,559,77,0
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,181,1077,150,31
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,1,109,763,49,60
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,1,75,493,60,31
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,3,204,1433,200,4
+South Eastern,26,Khost,2611,Spera,22-06-22,Earthquake,0,0,22,154,12,10
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,23,188,20,3
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,11,15,30,217,5,25
+South Eastern,26,Khost,2606,Tani,22-06-22,Earthquake,0,0,185,1417,185,0
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,6,126,34,257,4,30
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,6,24,2,4
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,214,1164,143,71
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,12,59,450,34,25
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,2,40,288,5,35
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,44,763,4,40
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,10,55,385,35,20
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,16,15,51,374,40,11
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,33,255,3,30
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,1,8,153,1377,0,153
+South Eastern,25,Paktika,2516,Gyan,22-06-22,Earthquake,0,0,126,885,0,126
+Capital,5,Logar,501,Pul-e-Alam,05-07-22,Flood / flash flood,1,1,7,43,4,3
+South Eastern,12,Paktya,1203,Ahmadaba,05-07-22,Flood / flash flood,1,0,13,91,12,0
+Capital,5,Logar,501,Pul-e-Alam,05-07-22,Flood / flash flood,0,0,22,147,8,14
+Capital,5,Logar,501,Pul-e-Alam,05-07-22,Flood / flash flood,0,0,12,104,3,9
+Capital,5,Logar,506,Kharwar,05-07-22,Flood / flash flood,0,0,5,36,4,1
+Capital,2,Kapisa,207,Hisa-e- Awal-e- Kohestan,05-07-22,Flood / flash flood,0,0,7,60,7,0
+Capital,2,Kapisa,205,Tagab,05-07-22,Flood / flash flood,0,0,15,104,15,0
+Capital,5,Logar,505,Charkh,05-07-22,Flood / flash flood,0,0,10,71,7,3
+Capital,5,Logar,502,Khoshi,05-07-22,Flood / flash flood,0,0,17,128,17,0
+Capital,5,Logar,504,Barakibarak,05-07-22,Flood / flash flood,0,0,7,48,5,2
+South Eastern,11,Ghazni,1108,Rashidan,05-07-22,Flood / flash flood,2,1,4,38,4,0
+Capital,3,Parwan,310,Surkh-e- Parsa,05-07-22,Flood / flash flood,0,0,12,76,3,9
+Capital,3,Parwan,307,Ghorband,05-07-22,Flood / flash flood,1,2,18,130,17,1
+Capital,3,Parwan,310,Surkh-e- Parsa,05-07-22,Flood / flash flood,0,0,28,178,17,11
+Capital,3,Parwan,309,Shekhali,05-07-22,Flood / flash flood,1,8,7,45,7,0
+Capital,3,Parwan,307,Ghorband,05-07-22,Flood / flash flood,0,0,18,123,18,0
+Capital,3,Parwan,308,Koh-e-Safi,05-07-22,Flood / flash flood,0,0,4,26,4,4
+Capital,3,Parwan,307,Ghorband,05-07-22,Flood / flash flood,0,0,5,34,5,0
+Eastern,13,Kunar,1301,Asadabad,06-07-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,6,Nangarhar,610,Hesarak,06-07-22,Flood / flash flood,0,0,30,208,8,22
+Eastern,13,Kunar,1308,Chawkay,06-07-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,6,Nangarhar,617,Achin,06-07-22,Flood / flash flood,0,0,2,19,1,1
+Eastern,6,Nangarhar,617,Achin,06-07-22,Flood / flash flood,0,0,3,14,3,0
+Eastern,6,Nangarhar,617,Achin,06-07-22,Flood / flash flood,0,0,5,39,5,0
+Eastern,6,Nangarhar,608,Kuzkunar,06-07-22,Flood / flash flood,0,0,6,50,6,0
+Eastern,6,Nangarhar,608,Kuzkunar,06-07-22,Flood / flash flood,0,0,12,84,12,0
+Eastern,6,Nangarhar,615,Batikot,06-07-22,Flood / flash flood,0,0,6,44,3,3
+Eastern,6,Nangarhar,609,Dara-e-Nur,06-07-22,Flood / flash flood,0,0,10,68,8,2
+Eastern,6,Nangarhar,601,Jalalabad,06-07-22,Flood / flash flood,0,0,4,29,4,0
+Eastern,6,Nangarhar,607,Kama,06-07-22,Flood / flash flood,0,0,3,22,3,0
+Eastern,6,Nangarhar,613,Dehbala,06-07-22,Flood / flash flood,0,0,3,22,3,0
+Eastern,14,Nuristan,1405,Wama,06-07-22,Flood / flash flood,7,0,13,91,13,0
+Eastern,7,Laghman,704,Alingar,06-07-22,Flood / flash flood,1,3,80,560,80,0
+Eastern,13,Kunar,1303,Narang,06-07-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,701,Mehtarlam,06-07-22,Flood / flash flood,0,0,17,161,28,0
+Eastern,7,Laghman,704,Alingar,07-07-22,Flood / flash flood,1,2,6,72,6,0
+South Eastern,11,Ghazni,1107,Zanakhan,07-07-22,Flood / flash flood,3,1,6,59,4,2
+Southern,24,Zabul,2402,Arghandab,07-07-22,Flood / flash flood,0,0,19,150,19,0
+South Eastern,11,Ghazni,1114,Muqur,07-07-22,Flood / flash flood,0,0,2,32,2,0
+Eastern,7,Laghman,704,Alingar,07-07-22,Flood / flash flood,0,0,10,90,10,0
+South Eastern,11,Ghazni,1106,Dehyak,07-07-22,Flood / flash flood,0,0,21,421,21,0
+Eastern,7,Laghman,704,Alingar,07-07-22,Flood / flash flood,0,0,6,63,6,0
+Eastern,7,Laghman,704,Alingar,07-07-22,Flood / flash flood,0,0,4,32,10,0
+Southern,24,Zabul,2409,Atghar,07-07-22,Flood / flash flood,0,0,33,352,26,7
+Southern,24,Zabul,2408,Daychopan,07-07-22,Flood / flash flood,11,0,11,107,11,0
+Southern,24,Zabul,2410,Shomulzay,07-07-22,Flood / flash flood,1,0,57,508,51,6
+Southern,24,Zabul,2405,Shinkay,07-07-22,Flood / flash flood,0,0,9,80,9,0
+South Eastern,25,Paktika,2502,Matakhan,07-07-22,Flood / flash flood,0,0,7,46,7,0
+Eastern,7,Laghman,701,Mehtarlam,07-07-22,Flood / flash flood,0,0,29,302,29,0
+Southern,24,Zabul,2401,Qalat,07-07-22,Flood / flash flood,0,0,20,190,16,4
+Southern,33,Kandahar,3306,Shahwalikot,08-07-22,Flood / flash flood,16,2,24,254,21,0
+Southern,23,Uruzgan,2305,Khasuruzgan,08-07-22,Flood / flash flood,0,4,11,94,11,0
+Central Highland,22,Daykundi,2205,Gizab,08-07-22,Flood / flash flood,6,0,36,336,0,0
+Southern,33,Kandahar,3313,Miyanshin,08-07-22,Flood / flash flood,0,0,23,191,23,0
+Southern,33,Kandahar,3316,Maruf,08-07-22,Flood / flash flood,5,14,5,62,3,2
+Southern,23,Uruzgan,2302,Chora,08-07-22,Flood / flash flood,0,0,91,856,88,3
+Southern,33,Kandahar,3312,Arghestan,08-07-22,Flood / flash flood,0,0,30,287,28,2
+South Eastern,25,Paktika,2510,Urgun,09-07-22,Flood / flash flood,0,0,16,84,16,0
+South Eastern,25,Paktika,2501,Sharan,09-07-22,Flood / flash flood,0,0,9,63,0,0
+South Eastern,11,Ghazni,1112,Nawur,10-07-22,Flood / flash flood,0,0,23,171,23,0
+South Eastern,12,Paktya,1203,Ahmadaba,10-07-22,Flood / flash flood,0,0,12,90,12,0
+South Eastern,12,Paktya,1204,Zurmat,10-07-22,Flood / flash flood,0,0,23,161,20,3
+South Eastern,12,Paktya,1201,Gardez,10-07-22,Flood / flash flood,0,2,82,635,51,31
+South Eastern,11,Ghazni,1118,Gelan,10-07-22,Flood / flash flood,0,0,2,16,2,0
+South Eastern,11,Ghazni,1101,Ghazni,10-07-22,Flood / flash flood,5,14,226,1555,211,15
+South Eastern,11,Ghazni,1106,Dehyak,10-07-22,Flood / flash flood,0,0,8,144,8,0
+Eastern,13,Kunar,1314,Nurgal,17-07-22,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1301,Asadabad,17-07-22,Flood / flash flood,0,0,13,91,13,0
+Eastern,13,Kunar,1304,Sarkani,17-07-22,Flood / flash flood,0,0,6,36,6,0
+Eastern,13,Kunar,1314,Nurgal,17-07-22,Flood / flash flood,0,0,4,43,0,0
+Eastern,13,Kunar,1314,Nurgal,17-07-22,Flood / flash flood,0,0,7,47,7,0
+Capital,5,Logar,501,Pul-e-Alam,23-07-22,Flood / flash flood,0,0,212,1484,99,113
+Capital,4,Wardak,406,Chak,23-07-22,Flood / flash flood,0,0,26,186,19,7
+Capital,4,Wardak,407,Saydabad,23-07-22,Flood / flash flood,0,0,13,75,12,1
+Capital,4,Wardak,401,Maydanshahr,23-07-22,Flood / flash flood,0,0,6,46,6,0
+Capital,4,Wardak,401,Maydanshahr,23-07-22,Flood / flash flood,0,0,6,46,6,0
+Capital,5,Logar,502,Khoshi,23-07-22,Flood / flash flood,0,0,7,69,6,1
+Capital,4,Wardak,402,Jalrez,23-07-22,Flood / flash flood,1,0,75,455,43,32
+Capital,4,Wardak,403,Nerkh,23-07-22,Flood / flash flood,0,0,17,177,9,18
+Capital,4,Wardak,404,Hesa-e- Awal-e- Behsud,23-07-22,Flood / flash flood,0,0,16,106,0,16
+South Eastern,26,Khost,2602,Sabari,23-07-22,Flood / flash flood,0,0,59,491,55,0
+Eastern,7,Laghman,704,Alingar,24-07-22,Flood / flash flood,0,0,7,50,4,3
+Eastern,6,Nangarhar,615,Batikot,24-07-22,Flood / flash flood,0,1,613,4046,467,146
+Eastern,6,Nangarhar,618,Shinwar,24-07-22,Flood / flash flood,0,0,97,705,93,4
+Eastern,6,Nangarhar,601,Jalalabad,24-07-22,Flood / flash flood,0,0,136,2157,88,48
+Eastern,6,Nangarhar,603,Surkhrod,24-07-22,Flood / flash flood,0,0,14,184,14,0
+Eastern,13,Kunar,1309,Khaskunar,24-07-22,Flood / flash flood,0,0,6,49,6,0
+North Eastern,15,Badakhshan,1520,Yamgan,24-07-22,Flood / flash flood,0,0,30,210,0,0
+Eastern,13,Kunar,1308,Chawkay,24-07-22,Flood / flash flood,0,0,4,30,8,0
+Eastern,13,Kunar,1304,Sarkani,24-07-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,610,Hesarak,24-07-22,Flood / flash flood,0,0,16,104,7,9
+Eastern,13,Kunar,1314,Nurgal,24-07-22,Flood / flash flood,0,0,15,101,11,0
+South Eastern,26,Khost,2602,Sabari,24-07-22,Flood / flash flood,0,0,16,146,16,0
+South Eastern,26,Khost,2612,Bak,24-07-22,Flood / flash flood,0,0,31,262,31,0
+South Eastern,26,Khost,2613,Jajimaydan,24-07-22,Flood / flash flood,0,2,261,1913,248,13
+Eastern,13,Kunar,1301,Asadabad,24-07-22,Flood / flash flood,0,0,11,81,11,0
+Eastern,13,Kunar,1302,Watapur,24-07-22,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1313,Chapadara,24-07-22,Flood / flash flood,0,0,2,14,2,0
+Eastern,13,Kunar,1305,Marawara,24-07-22,Flood / flash flood,0,0,12,89,12,0
+Eastern,7,Laghman,701,Mehtarlam,24-07-22,Flood / flash flood,0,0,12,97,9,3
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,24-07-22,Flood / flash flood,0,0,3,24,3,0
+South Eastern,12,Paktya,1201,Gardez,25-07-22,Flood / flash flood,0,0,7,51,7,0
+South Eastern,12,Paktya,1204,Zurmat,25-07-22,Flood / flash flood,0,0,51,480,0,0
+Central Highland,10,Bamyan,1007,Waras,25-07-22,Flood / flash flood,0,0,200,1400,125,0
+Central Highland,10,Bamyan,1004,Panjab,25-07-22,Flood / flash flood,0,0,40,280,0,3
+Central Highland,10,Bamyan,1007,Waras,25-07-22,Flood / flash flood,0,0,42,294,0,2
+South Eastern,12,Paktya,1202,Sayedkaram,25-07-22,Flood / flash flood,0,0,19,147,18,0
+Western,31,Farah,3109,Gulestan,25-07-22,Flood / flash flood,2,0,214,1482,113,101
+Capital,5,Logar,501,Pul-e-Alam,25-07-22,Flood / flash flood,0,0,6,24,4,2
+South Eastern,12,Paktya,1204,Zurmat,25-07-22,Flood / flash flood,0,0,7,48,7,0
+Western,30,Hirat,3010,Adraskan,26-07-22,Flood / flash flood,2,0,45,283,8,37
+Central Highland,22,Daykundi,2203,Khadir,26-07-22,Flood / flash flood,0,0,144,1008,0,0
+Western,30,Hirat,3011,Farsi,26-07-22,Flood / flash flood,0,0,33,231,12,21
+Southern,24,Zabul,2401,Qalat,27-07-22,Flood / flash flood,0,0,43,362,42,1
+Southern,23,Uruzgan,2303,Shahid-e-Hassas,27-07-22,Flood / flash flood,0,0,3,18,2,0
+Southern,23,Uruzgan,2301,Tirinkot,27-07-22,Flood / flash flood,0,0,11,105,11,0
+Southern,33,Kandahar,3301,Kandahar,27-07-22,Flood / flash flood,2,1,48,357,47,1
+Southern,33,Kandahar,3308,Maywand,27-07-22,Flood / flash flood,0,0,19,137,19,0
+Southern,33,Kandahar,3304,Panjwayi,27-07-22,Flood / flash flood,0,0,7,45,7,0
+Southern,33,Kandahar,3303,Zheray,27-07-22,Flood / flash flood,6,2,10,78,9,1
+Central Highland,22,Daykundi,2201,Nili,27-07-22,Flood / flash flood,0,0,80,560,0,0
+Southern,23,Uruzgan,2305,Khasuruzgan,27-07-22,Flood / flash flood,0,0,68,605,68,0
+Southern,24,Zabul,2402,Arghandab,27-07-22,Flood / flash flood,0,0,251,2379,236,15
+Southern,24,Zabul,2403,Mizan,27-07-22,Flood / flash flood,1,0,64,468,49,15
+Southern,24,Zabul,2406,Shahjoy,27-07-22,Flood / flash flood,0,0,25,232,19,6
+Central Highland,22,Daykundi,2206,Shahrestan,28-07-22,Flood / flash flood,0,0,125,875,0,0
+Southern,23,Uruzgan,2302,Chora,28-07-22,Flood / flash flood,0,0,28,247,28,0
+South Eastern,11,Ghazni,1117,Malestan,29-07-22,Flood / flash flood,0,0,9,84,9,0
+Central Highland,22,Daykundi,2209,Miramor,29-07-22,Flood / flash flood,0,0,307,2149,0,0
+Southern,33,Kandahar,3302,Arghandab,29-07-22,Flood / flash flood,0,0,3,23,3,0
+South Eastern,11,Ghazni,1116,Ajrestan,29-07-22,Flood / flash flood,0,0,2,19,2,0
+South Eastern,11,Ghazni,1111,Giro,29-07-22,Flood / flash flood,0,1,133,948,132,1
+South Eastern,11,Ghazni,1101,Ghazni,29-07-22,Flood / flash flood,0,0,8,49,8,0
+South Eastern,11,Ghazni,1114,Muqur,29-07-22,Flood / flash flood,0,0,4,40,4,0
+South Eastern,11,Ghazni,1110,Qarabagh,29-07-22,Flood / flash flood,10,3,54,421,51,3
+South Eastern,11,Ghazni,1105,Andar,29-07-22,Flood / flash flood,0,0,1,8,1,0
+South Eastern,11,Ghazni,1118,Gelan,29-07-22,Flood / flash flood,0,0,17,147,17,0
+South Eastern,11,Ghazni,1106,Dehyak,29-07-22,Flood / flash flood,0,0,39,241,35,4
+South Eastern,25,Paktika,2510,Urgun,29-07-22,Flood / flash flood,0,0,64,378,54,10
+Eastern,13,Kunar,1308,Chawkay,30-07-22,Flood / flash flood,0,0,4,29,4,0
+Southern,33,Kandahar,3311,Spinboldak,30-07-22,Flood / flash flood,4,3,505,4290,416,98
+South Eastern,12,Paktya,1201,Gardez,01-08-22,Flood / flash flood,3,0,18,118,18,0
+Capital,5,Logar,505,Charkh,02-08-22,Flood / flash flood,0,0,25,157,12,13
+Eastern,6,Nangarhar,616,Goshta,04-08-22,Flood / flash flood,0,0,5,37,5,0
+Southern,24,Zabul,2405,Shinkay,06-08-22,Flood / flash flood,0,0,14,105,14,0
+Southern,24,Zabul,2411,Nawbahar,06-08-22,Flood / flash flood,0,0,25,158,25,0
+Capital,4,Wardak,406,Chak,10-08-22,Flood / flash flood,0,0,55,253,38,17
+Capital,4,Wardak,407,Saydabad,10-08-22,Flood / flash flood,1,0,13,61,9,4
+South Eastern,25,Paktika,2501,Sharan,11-08-22,Flood / flash flood,0,0,18,126,18,0
+Capital,4,Wardak,407,Saydabad,12-08-22,Flood / flash flood,0,0,122,910,86,36
+South Eastern,26,Khost,2606,Tani,12-08-22,Flood / flash flood,0,0,21,179,20,1
+Capital,5,Logar,503,Mohammadagha,12-08-22,Flood / flash flood,0,0,32,224,16,16
+Capital,5,Logar,504,Barakibarak,12-08-22,Flood / flash flood,1,0,18,126,15,3
+Capital,5,Logar,501,Pul-e-Alam,12-08-22,Flood / flash flood,0,0,68,431,33,35
+South Eastern,26,Khost,2601,Khost (Matun),12-08-22,Flood / flash flood,0,4,148,1061,106,42
+Capital,4,Wardak,402,Jalrez,12-08-22,Flood / flash flood,3,0,1,6,0,1
+Capital,5,Logar,505,Charkh,12-08-22,Flood / flash flood,0,0,138,966,68,70
+South Eastern,26,Khost,2605,Mandozayi,12-08-22,Flood / flash flood,4,6,133,1100,115,18
+Capital,4,Wardak,406,Chak,12-08-22,Flood / flash flood,0,0,4,43,4,0
+South Eastern,26,Khost,2604,Nadirshahkot,12-08-22,Flood / flash flood,0,1,125,915,101,20
+Capital,2,Kapisa,202,Nejrab,13-08-22,Flood / flash flood,0,0,35,73,33,2
+Southern,24,Zabul,2410,Shomulzay,13-08-22,Flood / flash flood,1,0,7,48,7,0
+Eastern,7,Laghman,703,Qarghayi,13-08-22,Flood / flash flood,0,0,8,56,8,0
+Eastern,7,Laghman,703,Qarghayi,13-08-22,Flood / flash flood,0,0,9,63,9,0
+Eastern,7,Laghman,702,Alishang,13-08-22,Flood / flash flood,0,0,7,49,6,1
+Eastern,7,Laghman,703,Qarghayi,13-08-22,Flood / flash flood,0,0,14,98,14,0
+Capital,2,Kapisa,205,Tagab,13-08-22,Flood / flash flood,2,7,72,504,0,5
+Eastern,7,Laghman,703,Qarghayi,13-08-22,Flood / flash flood,0,0,16,112,16,0
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,19,124,18,1
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,4,24,4,0
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,23,151,22,1
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,6,40,6,0
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,22,119,22,0
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,9,56,5,4
+Eastern,7,Laghman,704,Alingar,13-08-22,Flood / flash flood,0,0,22,98,18,4
+Capital,3,Parwan,303,Shinwari,14-08-22,Flood / flash flood,5,6,129,496,26,103
+Capital,3,Parwan,307,Ghorband,14-08-22,Flood / flash flood,6,15,59,285,21,38
+Eastern,7,Laghman,702,Alishang,14-08-22,Flood / flash flood,0,0,15,18,15,0
+Eastern,7,Laghman,703,Qarghayi,15-08-22,Flood / flash flood,0,0,20,16,20,0
+Eastern,6,Nangarhar,601,Jalalabad,15-08-22,Flood / flash flood,0,0,1330,8820,1153,177
+Eastern,7,Laghman,702,Alishang,15-08-22,Flood / flash flood,0,0,5,35,5,0
+Eastern,7,Laghman,703,Qarghayi,15-08-22,Flood / flash flood,0,1,11,77,11,0
+South Eastern,26,Khost,2604,Nadirshahkot,16-08-22,Flood / flash flood,0,0,18,142,18,0
+Eastern,13,Kunar,1308,Chawkay,17-08-22,Flood / flash flood,0,0,8,68,8,0
+Eastern,13,Kunar,1308,Chawkay,17-08-22,Flood / flash flood,0,0,7,52,7,0
+Eastern,13,Kunar,1308,Chawkay,17-08-22,Flood / flash flood,0,0,4,32,4,0
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,5,38,2,3
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,4,28,1,3
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,5,40,2,3
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,15,127,10,5
+Eastern,13,Kunar,1308,Chawkay,17-08-22,Flood / flash flood,1,3,10,81,4,6
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,3,24,2,1
+Eastern,13,Kunar,1309,Khaskunar,17-08-22,Flood / flash flood,0,0,5,39,2,3
+Eastern,13,Kunar,1305,Marawara,17-08-22,Flood / flash flood,0,1,18,145,18,0
+Eastern,14,Nuristan,1407,Kamdesh,17-08-22,Flood / flash flood,12,20,64,454,23,41
+Eastern,13,Kunar,1305,Marawara,17-08-22,Flood / flash flood,0,0,19,144,17,2
+Eastern,13,Kunar,1305,Marawara,17-08-22,Flood / flash flood,0,0,12,90,12,0
+Capital,4,Wardak,405,Daymirdad,20-08-22,Flood / flash flood,0,0,6,58,6,0
+Capital,4,Wardak,407,Saydabad,20-08-22,Flood / flash flood,0,0,36,274,26,10
+Capital,4,Wardak,406,Chak,20-08-22,Flood / flash flood,0,0,33,260,25,8
+Capital,5,Logar,502,Khoshi,20-08-22,Flood / flash flood,4,10,448,3136,222,226
+Capital,5,Logar,503,Mohammadagha,20-08-22,Flood / flash flood,0,0,51,357,27,24
+Capital,5,Logar,501,Pul-e-Alam,20-08-22,Flood / flash flood,0,0,129,903,91,38
+Capital,5,Logar,504,Barakibarak,20-08-22,Flood / flash flood,0,0,9,63,8,1
+Eastern,6,Nangarhar,604,Khogyani,20-08-22,Flood / flash flood,0,0,16,90,12,4
+Capital,1,Kabul,106,Musayi,22-08-22,Flood / flash flood,0,0,47,242,29,18
+Eastern,7,Laghman,704,Alingar,23-08-22,Flood / flash flood,0,0,25,195,25,0
+Eastern,7,Laghman,703,Qarghayi,24-08-22,Flood / flash flood,0,0,16,112,16,0
+Eastern,7,Laghman,703,Qarghayi,24-08-22,Flood / flash flood,0,0,11,77,11,0
+Eastern,7,Laghman,704,Alingar,24-08-22,Flood / flash flood,0,0,19,133,19,0
+Eastern,7,Laghman,704,Alingar,24-08-22,Flood / flash flood,0,0,10,70,10,0
+Western,31,Farah,3109,Gulestan,25-08-22,Flood / flash flood,0,0,74,2958,11,63
+Eastern,13,Kunar,1304,Sarkani,26-08-22,Flood / flash flood,0,0,26,206,18,8
+Eastern,7,Laghman,703,Qarghayi,26-08-22,Flood / flash flood,0,0,17,119,0,17
+Eastern,13,Kunar,1304,Sarkani,26-08-22,Flood / flash flood,0,0,42,279,14,28
+Eastern,13,Kunar,1314,Nurgal,26-08-22,Flood / flash flood,0,0,10,69,6,4
+Eastern,13,Kunar,1314,Nurgal,26-08-22,Flood / flash flood,0,0,9,81,8,1
